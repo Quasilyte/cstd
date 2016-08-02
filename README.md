@@ -27,6 +27,3 @@ namespace cstd {
 
 You can not actually do that with C standard library because most libraries expect them to be in global namespace.
 
-### Case 3
-
-It does not define tons of the messy preprocessor stuff.
